@@ -1,0 +1,84 @@
+/* fixos */
+
+#cm {
+    background-color: red;
+    width: 1cm;
+    height: 1cm;
+}
+#mm {
+   background-color: blue;
+   width: 1mm;
+   height: 1mm; 
+}
+#in {
+    background-color: red;
+    width: 1in;
+    height: 1in;
+}
+#px {
+    background-color: blue;
+    width: 1px;
+    height: 1px;
+}
+#pt {
+    background-color: red;
+    width: 1pt;
+    height: 1pt;
+}
+#pc {
+    background-color: blue;
+    width: 1pc;
+    height: 1pc;
+}
+
+
+/* relativos */
+
+#em {
+ background-color: blue;
+ width: 10em;
+ height: 10em;
+ 
+}
+#ex {
+ background-color: red;
+width: 10ex;
+height: 10ex;
+
+}
+#ch {
+  background-color: blue;
+  width: 10ch;
+  height: 10ch;
+  
+}
+#rem {
+ background-color: red;
+width: 10rem;
+height: 10rem;
+
+}
+#vw {
+ background-color: blue;
+width: 10vw;
+height: 10vw;
+
+}
+#vh {
+ background-color: red;
+width: 10vh;
+height: 10vh;
+
+}
+#vmin {
+ background-color: blue;
+width: 10vmin;
+height: 10vmin;
+
+}
+#vmax {
+ background-color: red;
+width: 10vmax;
+height: 10vmax;
+
+}

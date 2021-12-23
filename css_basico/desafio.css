@@ -1,0 +1,30 @@
+body {
+    background: rgb(224, 143, 143);
+}
+
+.card {
+    width: 400px;
+    height: 200px;
+    background: url('./images/background.png') no-repeat;
+    background-size: cover;
+    box-sizing: border-box;
+    
+    margin: auto;
+    margin-top: 10%;
+    padding: 1px 20px;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+.Youtube {
+    list-style: url('./images/Youtube.png');
+}
+.Instagram  {
+    list-style: url('./images/Insta.png');
+}
+.Twitter  {
+    list-style: url('./images/Twitter.png');
+}
